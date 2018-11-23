@@ -1,0 +1,9 @@
+{
+  "name": "thinger",
+  "version": "0.1.0",
+  "description": "A real go-getter!",
+  "repository": "https://github.com/zioroboco/thinger.git",
+  "author": "Louis Quinnell <zioroboco@gmail.com>",
+  "license": "ISC",
+  "private": true
+}
